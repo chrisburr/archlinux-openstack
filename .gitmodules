@@ -1,0 +1,3 @@
+[submodule "image-bootstrap"]
+	path = image-bootstrap
+	url = git@github.com:hartwork/image-bootstrap.git
